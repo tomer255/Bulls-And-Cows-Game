@@ -1,0 +1,20 @@
+C:\Users\tomer\Source\Repos\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex02 Tomer 315806968 Idan 315342071\obj\Debug\A22 Ex05.csprojAssemblyReference.cache
+C:\Users\tomer\Source\Repos\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex02 Tomer 315806968 Idan 315342071\obj\Debug\A22_Ex05.GameTableForm.resources
+C:\Users\tomer\Source\Repos\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex02 Tomer 315806968 Idan 315342071\obj\Debug\A22 Ex05.csproj.GenerateResource.cache
+C:\Users\tomer\Source\Repos\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex02 Tomer 315806968 Idan 315342071\bin\Debug\A22 Ex05 Tomer 315806968 Idan 315342071.exe.config
+C:\Users\tomer\Source\Repos\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex02 Tomer 315806968 Idan 315342071\bin\Debug\A22 Ex05 Tomer 315806968 Idan 315342071.exe
+C:\Users\tomer\Source\Repos\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex02 Tomer 315806968 Idan 315342071\bin\Debug\A22 Ex05 Tomer 315806968 Idan 315342071.pdb
+C:\Users\tomer\Source\Repos\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex02 Tomer 315806968 Idan 315342071\obj\Debug\A22 Ex05 Tomer 315806968 Idan 315342071.exe
+C:\Users\tomer\Source\Repos\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex02 Tomer 315806968 Idan 315342071\obj\Debug\A22 Ex05 Tomer 315806968 Idan 315342071.pdb
+C:\Users\tomer\Source\Repos\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex02 Tomer 315806968 Idan 315342071\obj\Debug\A22_Ex05.ColorPickForm.resources
+C:\Users\tomer\Source\Repos\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex02 Tomer 315806968 Idan 315342071\obj\Debug\A22_Ex05.SettingsForm.resources
+C:\Users\tomer\Source\Repos\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex05\bin\Debug\A22 Ex05 Tomer 315806968 Idan 315342071.exe.config
+C:\Users\tomer\Source\Repos\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex05\bin\Debug\A22 Ex05 Tomer 315806968 Idan 315342071.exe
+C:\Users\tomer\Source\Repos\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex05\bin\Debug\A22 Ex05 Tomer 315806968 Idan 315342071.pdb
+C:\Users\tomer\Source\Repos\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex05\obj\Debug\A22 Ex05.csprojAssemblyReference.cache
+C:\Users\tomer\Source\Repos\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex05\obj\Debug\A22_Ex05.ColorPickForm.resources
+C:\Users\tomer\Source\Repos\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex05\obj\Debug\A22_Ex05.GameTableForm.resources
+C:\Users\tomer\Source\Repos\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex05\obj\Debug\A22_Ex05.SettingsForm.resources
+C:\Users\tomer\Source\Repos\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex05\obj\Debug\A22 Ex05.csproj.GenerateResource.cache
+C:\Users\tomer\Source\Repos\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex05\obj\Debug\A22 Ex05 Tomer 315806968 Idan 315342071.exe
+C:\Users\tomer\Source\Repos\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex05\obj\Debug\A22 Ex05 Tomer 315806968 Idan 315342071.pdb
